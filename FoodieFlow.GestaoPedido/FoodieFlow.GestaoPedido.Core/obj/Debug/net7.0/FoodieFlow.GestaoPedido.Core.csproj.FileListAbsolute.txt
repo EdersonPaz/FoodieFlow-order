@@ -1,0 +1,15 @@
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.csproj.AssemblyReference.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.AssemblyInfoInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.AssemblyInfo.cs
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.csproj.CoreCompileInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Core.deps.json
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Core.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Core.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.csproj.CopyComplete
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\refint\FoodieFlow.GestaoPedido.Core.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Core.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Core\obj\Debug\net7.0\ref\FoodieFlow.GestaoPedido.Core.dll

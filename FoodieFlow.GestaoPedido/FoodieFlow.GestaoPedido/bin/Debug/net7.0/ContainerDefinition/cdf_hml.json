@@ -1,0 +1,147 @@
+[
+  {
+    "name": "FoodieFlow.GestaoPedido-hml",
+    "image": "<SOLICITAR AO TIME DE CLOUDSERVICES O ENDERECO DO ECR NA AWS>:TAG_IMAGE",
+    "portMappings": [
+      {
+        "containerPort": 80,
+        "hostPort": 80,
+        "protocol": "tcp"
+      }
+    ],
+    "essential": true,
+    "environment": [
+      {
+        "name": "ASPNETCORE_ENVIRONMENT",
+        "value": "Development"
+      },
+      {
+        "name": "DatabaseDefaults:DatabaseSeedJsonFile",
+        "value": "/mnt/keyfiles/seedfile/database/databaseseed.json"
+      },
+      {
+        "name": "SecuritySettings:JwtTokenAuthentication:ArquivoSecretKey",
+        "value": "/mnt/keyfiles/secretkey/secretkey.txt"
+      },
+      {
+        "name": "SecuritySettings:JwtTokenAuthentication:ArquivoPublicKey",
+        "value": "/mnt/keyfiles/publickey/publickey.json"
+      },
+      {
+        "name": "DD_SERVICE_NAME",
+        "value": "FoodieFlow.GestaoPedido-hml"
+      },
+      {
+        "name": "DD_LOGS_INJECTION",
+        "value": "true"
+      },
+      {
+        "name": "DD_ENV",
+        "value": "aws-hml"
+      },
+      {
+        "name": "DD_SERVICE",
+        "value": "FoodieFlow.GestaoPedido-hml"
+      },
+      {
+        "name": "DD_RUNTIME_METRICS_ENABLED",
+        "value": "true"
+      },
+	  {
+		"name": "GoUpAsAService",
+        "value": "false" 
+	  }
+    ],
+    "ulimits": [
+      {
+        "name": "nofile",
+        "softLimit": 1048576,
+        "hardLimit": 1048576
+      },
+      {
+        "name": "nproc",
+        "softLimit": 1048576,
+        "hardLimit": 1048576
+      }
+    ],
+    "mountPoints": [
+      {
+        "sourceVolume": "data",
+        "containerPath": "/mnt"
+      }
+    ],
+    "logConfiguration": {
+      "logDriver": "awsfirelens",
+      "options": {
+        "Name": "datadog",
+        "TLS": "on",
+        "apiKey": "70bf70eb8f86de893d498e4e52a7034d",
+        "dd_service": "FoodieFlow.GestaoPedido-webapi-hml",
+        "dd_source": "FoodieFlow.GestaoPedido-webapi-hml",
+        "dd_tags": "FoodieFlow.GestaoPedido-webapi-hml",
+        "provider": "ecs"
+      }
+    }
+  },
+  {
+    "name": "datadog",
+    "image": "datadog/agent:latest",
+    "cpu": 10,
+    "memoryReservation": 256,
+    "portMappings": [
+      {
+        "containerPort": 8126,
+        "hostPort": 8126,
+        "protocol": "tcp"
+      }
+    ],
+    "essential": true,
+    "environment": [
+      {
+        "name": "ECS_FARGATE",
+        "value": "true"
+      },
+      {
+        "name": "DD_APM_ENABLED",
+        "value": "true"
+      },
+      {
+        "name": "DD_LOGS_ENABLED",
+        "value": "true"
+      },
+      {
+        "name": "DD_TRACE_ENABLED",
+        "value": "true"
+      },
+      {
+        "name": "DD_API_KEY",
+        "value": "70bf70eb8f86de893d498e4e52a7034d"
+      },
+      {
+        "name": "DD_SITE",
+        "value": "datadoghq.com"
+      },
+      {
+        "name": "DD_ENV",
+        "value": "aws-hml"
+      },
+      {
+        "name": "DD_VERSION",
+        "value": "1"
+      },
+      {
+        "name": "DD_SERVICE",
+        "value": "FoodieFlow.GestaoPedido-webapi-hml"
+      }
+    ]
+  },
+  {
+    "name": "log_router",
+    "image": "amazon/aws-for-fluent-bit:stable",
+    "cpu": 0,
+    "essential": true,
+    "firelensConfiguration": {
+      "type": "fluentbit"
+    }
+  }
+]

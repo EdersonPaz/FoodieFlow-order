@@ -1,0 +1,17 @@
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.csproj.AssemblyReference.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.AssemblyInfoInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.AssemblyInfo.cs
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.csproj.CoreCompileInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.deps.json
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Core.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Core.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.csproj.CopyComplete
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\refint\FoodieFlow.GestaoPedido.Infra.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\ref\FoodieFlow.GestaoPedido.Infra.dll

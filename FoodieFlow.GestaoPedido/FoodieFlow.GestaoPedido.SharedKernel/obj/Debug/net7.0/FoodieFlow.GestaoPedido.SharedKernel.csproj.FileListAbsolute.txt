@@ -1,0 +1,11 @@
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.deps.json
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\bin\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.AssemblyInfo.cs
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\refint\FoodieFlow.GestaoPedido.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\FoodieFlow.GestaoPedido.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.SharedKernel\obj\Debug\net7.0\ref\FoodieFlow.GestaoPedido.SharedKernel.dll
