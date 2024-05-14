@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodieFlow.GestaoPedido.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf4785cf18a40b1f222c3930637aa5c7ac2982e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc1a55e4fc70a154adcdded1203212942adf9e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodieFlow.GestaoPedido.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodieFlow.GestaoPedido.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
