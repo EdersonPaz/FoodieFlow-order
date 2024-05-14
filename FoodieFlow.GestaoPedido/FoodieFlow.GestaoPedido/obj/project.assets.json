@@ -2106,37 +2106,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\endri\\.nuget\\packages\\": {}
+    "C:\\Users\\SystemLoop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj",
+      "projectUniqueName": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj",
       "projectName": "FoodieFlow.GestaoPedido",
-      "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj",
-      "packagesPath": "C:\\Users\\endri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\obj\\",
+      "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj",
+      "packagesPath": "C:\\Users\\SystemLoop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\endri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\NuGet.Config",
+        "C:\\Users\\SystemLoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nexus.ourinvest.com.br/repository/nuget-ourinvest-dependencias/": {},
+        "https://nexus.ourinvest.com.br/repository/nuget-ourinvest-legacy/": {},
+        "https://nexus.ourinvest.com.br/repository/nuget.org-proxy/": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj": {
-              "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj"
+            "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj": {
+              "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj"
             },
-            "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Infra\\FoodieFlow.GestaoPedido.Infra.csproj": {
-              "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Infra\\FoodieFlow.GestaoPedido.Infra.csproj"
+            "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Infra\\FoodieFlow.GestaoPedido.Infra.csproj": {
+              "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Infra\\FoodieFlow.GestaoPedido.Infra.csproj"
             }
           }
         }
@@ -2145,6 +2148,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2183,7 +2191,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\endri\\.nuget\\packages\\": {}
+    "C:\\Users\\SystemLoop\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj",
+      "projectUniqueName": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj",
       "projectName": "FoodieFlow.GestaoPedido.SharedKernel",
-      "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj",
-      "packagesPath": "C:\\Users\\endri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\obj\\",
+      "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj",
+      "packagesPath": "C:\\Users\\SystemLoop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\endri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SystemLoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
