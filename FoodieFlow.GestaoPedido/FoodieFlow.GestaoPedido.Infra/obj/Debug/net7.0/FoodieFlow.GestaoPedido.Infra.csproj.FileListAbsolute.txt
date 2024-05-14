@@ -15,3 +15,5 @@ C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\Food
 C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\refint\FoodieFlow.GestaoPedido.Infra.dll
 C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.pdb
 C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\ref\FoodieFlow.GestaoPedido.Infra.dll
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\bin\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.runtimeconfig.json
+C:\Users\endri\source\repos\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido\FoodieFlow.GestaoPedido.Infra\obj\Debug\net7.0\FoodieFlow.GestaoPedido.Infra.genruntimeconfig.cache

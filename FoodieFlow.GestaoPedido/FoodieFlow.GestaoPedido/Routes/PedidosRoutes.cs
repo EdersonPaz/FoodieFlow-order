@@ -51,7 +51,7 @@ namespace FoodieFlow.GestaoPedido.Routes
                 try
                 {
                     logger.LogInformation($"Processando mensagem SQS: {mensagem}");
-
+                    processamentoService.ConsumirFilaProcessarMensagens();
                     processamentoService.ProcessarMensagemSQS(mensagem);
 
                     return Results.Ok("Mensagem processada com sucesso");

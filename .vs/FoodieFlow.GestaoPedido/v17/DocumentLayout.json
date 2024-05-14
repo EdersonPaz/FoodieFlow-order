@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|solutionrelative:foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|solutionrelative:foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBBD47D1-3939-4195-8D54-C9A152E5B4A6}|FoodieFlow.SpecFlowProject\\FoodieFlow.SpecFlowProject.csproj|solutionrelative:foodieflow.specflowproject\\features\\pedidoservicetestgetall\\pedidoservicetestgetall.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\services\\processamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\services\\processamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\backgroundservice\\timedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\backgroundservice\\timedhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDC7365-C441-406F-8C03-F76105A37E8B}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido.sharedkernel\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDC7365-C441-406F-8C03-F76105A37E8B}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\FoodieFlow.GestaoPedido.SharedKernel.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido.sharedkernel\\bases\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido\\routes\\pedidosroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido\\routes\\pedidosroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\services\\awsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DF8CAF4-CFED-4FA0-8EB0-23FCD028E172}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\FoodieFlow.GestaoPedido.Core.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido.core\\services\\awsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|c:\\users\\systemloop\\documents\\github\\git\\foodieflow-order\\foodieflow.gestaopedido\\foodieflow.gestaopedido\\config\\injectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF314EE7-312B-4116-A91C-1C094DEDC58C}|FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.csproj|solutionrelative:foodieflow.gestaopedido\\foodieflow.gestaopedido\\config\\injectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimedHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\BackgroundService\\TimedHostedService.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\BackgroundService\\TimedHostedService.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\BackgroundService\\TimedHostedService.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\BackgroundService\\TimedHostedService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:53:35.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\Bases\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\Bases\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\Bases\\BaseEntity.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.SharedKernel\\Bases\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:50:59.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidosRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Routes\\PedidosRoutes.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Routes\\PedidosRoutes.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Routes\\PedidosRoutes.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Routes\\PedidosRoutes.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:49:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\ProcessamentoService.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\ProcessamentoService.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\ProcessamentoService.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\ProcessamentoService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:48:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AwsService.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\AwsService.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\AwsService.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\AwsService.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido.Core\\Services\\AwsService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:47:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\appsettings.Development.json",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T23:47:04.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Config\\InjectionConfig.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Config\\InjectionConfig.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Config\\InjectionConfig.cs",
+              "RelativeToolTip": "FoodieFlow.GestaoPedido\\FoodieFlow.GestaoPedido\\Config\\InjectionConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:46:24.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoServiceTestGetAll.feature.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature.cs",
+              "RelativeToolTip": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:57:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoServiceTestGetAll.feature",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature",
+              "RelativeDocumentMoniker": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature",
+              "RelativeToolTip": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T23:57:49.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoServiceTestGetAll.cs",
+              "DocumentMoniker": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.cs",
+              "RelativeDocumentMoniker": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.cs",
+              "ToolTip": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-order\\FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.cs",
+              "RelativeToolTip": "FoodieFlow.SpecFlowProject\\Features\\PedidoServiceTestGetAll\\PedidoServiceTestGetAll.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:57:46.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

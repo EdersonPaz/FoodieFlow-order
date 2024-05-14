@@ -52,7 +52,7 @@ namespace FoodieFlow.GestaoPedido.Core.Services
 
         public async Task<List<Message>> ObterMensagensAsync(string urlFila)
         {
-            using (var client = new AmazonSQSClient(RegionEndpoint.USEast1))
+            using (var client = new AmazonSQSClient(RegionEndpoint.USEast2))
             {
                 var receiveMessageRequest = new ReceiveMessageRequest
                 {
@@ -68,7 +68,7 @@ namespace FoodieFlow.GestaoPedido.Core.Services
 
         public async Task DeletarMensagemAsync(string urlFila, string codigoMensagem)
         {
-            using (var client = new AmazonSQSClient(RegionEndpoint.USEast1))
+            using (var client = new AmazonSQSClient(RegionEndpoint.USEast2))
             {
                 var deleteMessageRequest = new DeleteMessageRequest
                 {
@@ -93,7 +93,7 @@ namespace FoodieFlow.GestaoPedido.Core.Services
             {
                 _logger.LogInformation($"(AwsService) Metodo de BuscarSecret:{chave} iniciado");
 
-                using (var client = new AmazonSecretsManagerClient(RegionEndpoint.USEast1))
+                using (var client = new AmazonSecretsManagerClient(RegionEndpoint.USEast2))
                 {
                     var request = new GetSecretValueRequest
                     {
@@ -125,7 +125,7 @@ namespace FoodieFlow.GestaoPedido.Core.Services
 
                 string caminhoArquivo = string.IsNullOrEmpty(pasta) ? nomeArquivo : $"{pasta}/{nomeArquivo}";
 
-                using (var client = new AmazonS3Client(RegionEndpoint.USEast1))
+                using (var client = new AmazonS3Client(RegionEndpoint.USEast2))
                 {
                     var putObjectRequest = new PutObjectRequest
                     {

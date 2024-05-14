@@ -2,7 +2,6 @@ using FoodieFlow.GestaoPedido.Config;
 using FoodieFlow.GestaoPedido.Core;
 using FoodieFlow.GestaoPedido.Infra;
 using FoodieFlow.GestaoPedido.Routes;
-using Microsoft.AspNetCore.Routing;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;

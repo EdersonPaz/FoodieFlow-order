@@ -2,6 +2,7 @@
 using FoodieFlow.GestaoPedido.Core.Interfaces.Service;
 using FoodieFlow.GestaoPedido.Core.Services;
 using FoodieFlow.GestaoPedido.Infra.Repository.Context;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 
 using Scrutor;
@@ -38,6 +39,7 @@ namespace FoodieFlow.GestaoPedido.Config
 
             return services;
         }
+
     }
 }
 

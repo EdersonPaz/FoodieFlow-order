@@ -9,6 +9,6 @@ namespace FoodieFlow.GestaoPedido.SharedKernel.Bases
     public abstract class BaseEntity
     {
         public int Id { get; set; }
-        public DateTime DtCriacao {  get; set; }
+        public DateTime DtCriacao {  get; set; } = DateTime.Now;
     }
 }
